@@ -1,0 +1,136 @@
+export default{
+
+list:[
+    {
+       url:"./img/n1.webp",
+       text:"女装"
+    },
+    {
+        url:"./img/n2.webp",  
+        text:"上衣"
+    },
+    {
+        url:"./img/n3.webp",  
+        text:"裤子" 
+    },
+    {
+        url:"./img/n4.webp",  
+        text:"裙子" 
+    },
+    {
+        url:"./img/n5.webp", 
+        text:"套装"  
+    },
+    {
+        url:"./img/n6.webp",  
+        text:"女鞋" 
+    },
+    {
+        url:"./img/n7.webp", 
+        text:"美妆/个护"  
+    },
+    {
+        url:"./img/n8.webp", 
+        text:"包包"  
+    },
+    {
+        url:"./img/n9.webp",  
+        text:"配饰" 
+    },
+    {
+        url:"./img/n10.webp", 
+        text:"内衣"  
+    },
+    {
+        url:"./img/n11.webp", 
+        text:"男友"  
+    },
+    {
+        url:"./img/n12.webp", 
+        text:"家居"  
+    },
+    {
+        url:"./img/n13.webp",
+        text:"母婴"   
+    },
+    {
+        url:"./img/n14.webp", 
+        text:"食品"  
+    },
+    {
+        url:"./img/n15.webp",  
+        text:"签到" 
+    },
+],
+lists:[
+    {
+       url:"./img/10.webp",
+       text:"女装"
+    },
+    {
+        url:"./img/11.webp",  
+        text:"上衣"
+    },
+    {
+        url:"./img/12.webp",  
+        text:"裤子" 
+    },
+    {
+        url:"./img/n4.webp",  
+        text:"裙子" 
+    },
+    {
+        url:"./img/13.webp", 
+        text:"套装"  
+    },
+    {
+        url:"./img/14.webp",  
+        text:"女鞋" 
+    },
+    {
+        url:"./img/15.webp", 
+        text:"美妆/个护"  
+    },
+    {
+        url:"./img/16.webp", 
+        text:"包包"  
+    },
+    {
+        url:"./img/17.webp",  
+        text:"配饰" 
+    },
+    {
+        url:"./img/n10.webp", 
+        text:"内衣"  
+    },
+    {
+        url:"./img/n11.webp", 
+        text:"男友"  
+    },
+    {
+        url:"./img/n12.webp", 
+        text:"家居"  
+    },
+    {
+        url:"./img/n13.webp",
+        text:"母婴"   
+    },
+    {
+        url:"./img/n14.webp", 
+        text:"食品"  
+    },
+    {
+        url:"./img/19.webp",  
+        text:"运动" 
+    },
+]
+
+
+
+
+
+
+
+
+
+}
